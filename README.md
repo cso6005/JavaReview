@@ -1,5 +1,4 @@
-# JavaPro
-#### 자바 실습 파일 업로드
+# JavaPro - 자바 실습 파일 저장소
 
 1. 0804
 - 자료구조 Arraylist, Map, Sey
