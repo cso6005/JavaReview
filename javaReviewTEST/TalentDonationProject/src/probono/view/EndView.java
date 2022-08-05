@@ -27,12 +27,13 @@ public class EndView {
 	//진행중인 모든 프로젝트 출력
 	public static void projectListView(ArrayList <TalentDonationProject> allProbonoProject){
 		int projectSize = allProbonoProject.size();
-		int index = 0;
+		int index = 1;
 		
 		for(TalentDonationProject p : allProbonoProject) {
-			if (index < projectSize) {
-				System.out.println("[진행 중인 project : " + (index+1) + "] " + p);
-				index++;
+			if (index <= projectSize) {
+				System.out.println("[진행 중인 project : " + (index++) + "] " + p);
+
+		}
 
 			
 			
