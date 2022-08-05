@@ -1,0 +1,15 @@
+[응용력 향상]
+
+1단계 - 동일한 주제 단 배열로 완성
+
+2단계	- 배열을 ArrayList로 변환 완성
+		- 리펙토링 : 기능은 동일/코드 개선
+		
+		- 수정가능한 클래스들 list
+			1. TalentDonationProjectService.java
+			2. EndView.java
+			3. StartView.java
+			
+3단계 - log4j를 적용해서 스스로 어떤 데이터 기록할지에 대한 설계 및 적용	
+
+4단계 - 예외처리 적용 (강사와 로직 하나만 마지막에 진행)	
