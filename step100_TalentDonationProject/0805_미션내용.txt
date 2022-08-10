@@ -1,0 +1,11 @@
+
+1단계	- ArrayList 로 구현
+		- 리펙토링 : 기능은 동일/코드 개선
+		
+		- 수정가능한 클래스들 list
+			1. TalentDonationProjectService.java
+			2. EndView.java
+			3. StartView.java
+			
+2단계 - log4j를 적용해서 스스로 어떤 데이터 기록할지에 대한 설계 및 적용	
+
