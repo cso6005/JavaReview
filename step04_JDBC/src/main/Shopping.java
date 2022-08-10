@@ -1,6 +1,6 @@
 
 
-package step01;
+package main;
 
 import java.sql.Connection;
 import java.sql.Date;
