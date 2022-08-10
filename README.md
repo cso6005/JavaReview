@@ -1,16 +1,17 @@
 ### JavaReview - 자바 실습 파일 저장소
 ***************************
 
-
-
 STEP 01
+- 배열 Array
+
+STEP 02
 - 자료구조 ArrayList, Map, Set
 - wapper 클래스 unboxing autoboxing
 
-STEP 02
+STEP 03
 - 예외처리 exception, try-catch, throws
 
-STEP 03
+STEP 04
 - JDBC (Java Database Connectivity)
 
 
