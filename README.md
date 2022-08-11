@@ -1,19 +1,23 @@
 ### JavaReview - 자바 실습 파일 저장소
 ***************************
 
-STEP 01
+01 
 - 배열 Array
 
-STEP 02
+02 
 - 자료구조 ArrayList, Map, Set
 - wapper 클래스 unboxing autoboxing
 
-STEP 03
+03 
 - 예외처리 exception, try-catch, throws
 
-STEP 04
+04 
 - JDBC (Java Database Connectivity)
-
+  - Shopping db customer table 관리 (DQL, DML)
+  
+05 
+- JDBC & MVC
+  - HR db emp table 관리 (DQL, DML)
 
 ***************************
 STEP 100 TalentDonationProject 
